@@ -1,0 +1,265 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.3.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~Msle0~/\<home_mailbox\>
+
+# Histórico de Linha de comando (mais recente primeiro):
+:wq
+:q!
+:set bg=dark
+: set_bg=dark
+:q
+:Wq
+
+# Histórico de Expressões de busca (mais recente primeiro):
+? \<home_mailbox\>
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+""1	LINE	0
+	memberUid: fox.bennett
+"2	LINE	0
+	helpdesk: suporte,vinicius
+"3	LINE	0
+	nameserver 8.8.8.8
+"-	CHAR	0
+	#
+
+# Marcas nos arquivos:
+'0  11  15  /etc/ldap/ldifs/modify.ldif
+'1  16  21  /etc/ldap/ldifs/group.ldif
+'2  7  0  /etc/ldap/ldifs/modify.ldif
+'3  61  9  /etc/ldap/ldifs/user.ldif
+'4  12  0  /etc/ldap/ldifs/ou.ldif
+'5  9  19  /etc/ldap/ldap.conf
+'6  15  32  /etc/aliases
+'7  1  0  /etc/eliases
+'8  6  3  /opt/welcome.sh
+'9  111  0  /etc/skel/.bashrc
+
+# Lista de saltos (mais recente primeiro):
+-'  11  15  /etc/ldap/ldifs/modify.ldif
+-'  1  0  /etc/ldap/ldifs/modify.ldif
+-'  16  21  /etc/ldap/ldifs/group.ldif
+-'  1  0  /etc/ldap/ldifs/group.ldif
+-'  7  0  /etc/ldap/ldifs/modify.ldif
+-'  61  9  /etc/ldap/ldifs/user.ldif
+-'  1  0  /etc/ldap/ldifs/user.ldif
+-'  12  0  /etc/ldap/ldifs/ou.ldif
+-'  1  0  /etc/ldap/ldifs/ou.ldif
+-'  9  19  /etc/ldap/ldap.conf
+-'  1  0  /etc/ldap/ldap.conf
+-'  15  32  /etc/aliases
+-'  1  0  /etc/aliases
+-'  1  0  /etc/eliases
+-'  6  3  /opt/welcome.sh
+-'  1  0  /opt/welcome.sh
+-'  111  0  /etc/skel/.bashrc
+-'  112  19  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  14  1  ~/teste.sh
+-'  1  0  ~/teste.sh
+-'  47  0  /etc/postfix/main.cf
+-'  1  0  /etc/postfix/main.cf
+-'  35  0  /etc/postfix/main.cf
+-'  9  0  /etc/postfix/main.cf
+-'  47  0  ~/mail/main.cf
+-'  2  0  ~/mail/main.cf
+-'  1  0  ~/mail/main.cf
+-'  44  0  ~/mail/main.cf
+-'  3  17  /etc/resolv.conf
+-'  1  0  /etc/resolv.conf
+-'  14  0  /etc/aliases
+-'  57  24  /etc/ldap/ldifs/user.ldif
+-'  16  17  /etc/aliases
+-'  4  0  /etc/aliases
+-'  46  25  /etc/postfix/main.cf
+-'  2  25  /etc/resolv.conf
+-'  32  0  /etc/postfix/main.cf
+-'  1  0  /etc/mailname
+-'  44  0  /etc/postfix/main.cf
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  1  0  /etc/mailname
+-'  3  17  /etc/resolv.conf
+-'  1  0  /etc/resolv.conf
+-'  47  0  ~/mail/main.cf
+-'  2  0  ~/mail/main.cf
+-'  1  0  ~/mail/main.cf
+-'  44  0  ~/mail/main.cf
+-'  3  17  /etc/resolv.conf
+-'  16  21  /etc/ldap/ldifs/group.ldif
+-'  1  0  /etc/ldap/ldifs/group.ldif
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /etc/ldap/ldifs/modify.ldif
+	"	11	15
+	^	11	16
+	.	14	25
+	+	5	21
+	+	2	18
+	+	5	21
+	+	8	18
+	+	11	15
+	+	14	25
+
+> /etc/ldap/ldifs/group.ldif
+	"	16	21
+	^	16	22
+	.	16	21
+	+	16	29
+	+	8	0
+	+	16	21
+
+> /etc/ldap/ldifs/user.ldif
+	"	61	9
+	^	61	10
+	.	55	9
+	+	49	26
+	+	54	23
+	+	55	11
+	+	56	13
+	+	57	24
+	+	49	17
+	+	54	15
+	+	57	16
+	+	56	7
+	+	55	9
+
+> /etc/ldap/ldifs/ou.ldif
+	"	12	0
+
+> /etc/ldap/ldap.conf
+	"	9	19
+	^	9	20
+	.	9	19
+	+	8	0
+	+	9	0
+	+	8	26
+	+	9	19
+	+	8	0
+	+	9	0
+	+	8	26
+	+	9	19
+
+> /etc/aliases
+	"	15	32
+	^	15	33
+	.	15	32
+	+	16	0
+	+	15	32
+
+> /etc/eliases
+	"	1	0
+
+> /opt/welcome.sh
+	"	6	3
+	^	6	4
+	.	6	3
+	+	6	3
+
+> /etc/skel/.bashrc
+	"	111	0
+	^	112	20
+	.	112	19
+	+	112	19
+
+> ~/teste.sh
+	"	14	1
+	^	14	2
+	.	14	2
+	+	3	22
+	+	14	1
+	+	11	61
+	+	14	2
+
+> /etc/postfix/main.cf
+	"	47	0
+	^	47	0
+	.	47	0
+	+	38	0
+	+	35	0
+	+	38	0
+	+	32	1
+	+	46	25
+	+	35	0
+	+	32	0
+	+	35	0
+	+	47	0
+
+> ~/mail/main.cf
+	"	47	0
+	^	47	27
+	.	47	26
+	+	47	26
+
+> /etc/resolv.conf
+	"	3	17
+	^	3	18
+	.	3	17
+	+	1	25
+	+	2	26
+	+	3	17
+
+> /etc/mailname
+	"	1	0
+	.	1	0
+	+	1	0
